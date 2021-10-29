@@ -7,8 +7,18 @@ body{
     
 }
 
+h1{
+    padding-block: 10px;
+    border: 5px solid #000;
+    margin-top: 20px;
+}
+
 p b {
     color:rgb(226, 230, 176)
 
 }
 
+#banner{
+    width: 100%;
+    
+}
