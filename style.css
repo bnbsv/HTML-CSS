@@ -1,4 +1,14 @@
-p{
+body{
     font-size: 16px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(58, 42, 104);
+    color: whitesmoke;
+    
 }
+
+p b {
+    color:rgb(226, 230, 176)
+
+}
+
